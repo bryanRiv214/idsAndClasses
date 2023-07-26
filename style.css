@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+div {
+    font-size: 20px;
+}
+
+#championDiv {
+    background-color: lightblue;
+}
+
+#diabloClassesDiv {
+    background-color: lightcoral
+}
+
+li {
+    color:darkmagenta;
+}
+
+.greenTextClass {
+    color: green;
+}
+
+.extraClass {
+    text-decoration: line-through;
+}
